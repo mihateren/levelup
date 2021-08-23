@@ -10,3 +10,5 @@
 
 Ввод в input только чисел: https://proweb63.ru/help/js/js-only-num
 
+
+А также обнулитель стилей браузеров: https://necolas.github.io/normalize.css/
