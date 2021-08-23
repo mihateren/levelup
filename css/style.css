@@ -372,7 +372,9 @@ button {
 }
 
 .pulse:hover {
+    -webkit-animation: none;
     animation: none;
+    font-size: 62px;
 }
 
 @-webkit-keyframes pulse {
